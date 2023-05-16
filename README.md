@@ -11,7 +11,7 @@ python collect_keypoints/mp_collect_keypoint.py
 Please open "keypoint_classification_ReLU_scikeras.ipynb" using [Jupyter Notebook](https://jupyter.org/) and run it to train the model.
 
 ## Step 3.
-Please replace the variable "keypoint_classifier_labels" with the names of the hand gestures you have trained for hand gesture recognition in **line 29 of the "mp_gesture_recognition.py" file**.
+Please replace the variable "keypoint_classifier_labels" with the names of the hand gestures you have trained for hand gesture recognition **in line 29 of the "mp_gesture_recognition.py" file**.
 
 Run "mp_gesture_recognition.py" to perform hand gesture recognition.
 ```bash
