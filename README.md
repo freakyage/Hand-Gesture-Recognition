@@ -1,7 +1,16 @@
 # Hand-Gesture-Recognition
 
-## Environment Requirement  
-- TensorFlow >= 2.7  
+## Requirements
+- TensorFlow >= 2.7
+- mediapipe
+- opencv-python
+- scikit-learn
+- matplotlib
+- pandas
+- pytz
+- scikeras
+- seaborn
+- xlwt
 ```bash
 pip install -r requirements.txt
 ```
